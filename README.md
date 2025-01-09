@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub stats](https://github-readme-stats-en9r6ua3d-faysalms-projects.vercel.app/api?username=FaysalM)](https://github.com/FaysalM/github-readme-stats)
+[![GitHub stats](http://github-readme-stats-omega-ten-54.vercel.app/api?username=FaysalM)](https://github.com/FaysalM/github-readme-stats)
 <!--
 **FaysalM/FaysalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
